@@ -1,1 +1,1 @@
-# รวม Google AppScript
+# รวม Google Apps Script
